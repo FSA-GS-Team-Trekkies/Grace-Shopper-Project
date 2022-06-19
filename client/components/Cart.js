@@ -8,6 +8,7 @@ class Cart extends Component {
     super(props);
     this.state = {
       productId: 0,
+      totalPrice: 0,
     };
     this.changeQuantity = this.changeQuantity.bind(this);
   }
@@ -24,60 +25,131 @@ class Cart extends Component {
   render() {
     const { cart, removeItemFromCart } = this.props;
     const { cart_details } = cart;
+    const total = {};
+    if (cart_details) {
+      const copyDetails = [...cart_details];
+
+      const totalPrice = copyDetails.reduce((acc, item) => {
+        return (acc +=
+          parseInt(item.product_quantity, 10) *
+          parseInt(item.product.price, 10));
+      }, 0);
+
+      total['totalPrice'] = totalPrice;
+    }
+    console.log('total ', total);
+
     return (
       <div>
         <h1>Shopping Cart</h1>
         <Link to="/checkout">
-          <button>Proceed to Checkout</button>
+          <button>Proceed to Checkout </button>
         </Link>
         <hr></hr>
-        {cart_details === undefined
-          ? 'Cart Empty'
-          : cart_details.length === 0
-          ? 'Cart Empty'
-          : cart_details.map((item) => (
-              <div
-                style={{
-                  padding: '1rem',
-                  border: '1px solid black',
-                  margin: '1rem',
-                  width: '250px',
-                }}
-                key={item.id}
-              >
-                <button
-                  style={{
-                    position: 'absolute',
-                    right: 0,
-                    zIndex: 1,
-                    backgroundColor: 'transparent',
-                    border: 'none',
-                  }}
-                  onClick={() => removeItemFromCart(item.product.id)}
-                >
-                  ❌
-                </button>
-                <img src={item.product.image_url}></img>
-                <li>Product Name: {item.product.name}</li>
-                <li>Price: ${item.product.price}</li>
-                <li>Quanity: {item.product_quantity}</li>
-                <select
-                  style={{ width: '50px' }}
-                  name="quanity"
-                  id={item.product.id}
-                  onChange={this.changeQuantity}
-                >
-                  <option value="1">1</option>
-                  <option value="2">2</option>
-                  <option value="3">3</option>
-                  <option value="4">4</option>
-                  <option value="5">5</option>
-                  <option value="6">6</option>
-                  <option value="7">7</option>
-                  <option value="8">8</option>
-                </select>
-              </div>
-            ))}
+        <div
+          id="entire-cart-container"
+          style={{
+            padding: '1rem',
+            border: '1px solid black',
+            margin: '1rem',
+            width: '90%',
+            display: 'flex',
+            flexDirection: 'row',
+            alignSelf: 'center',
+          }}
+        >
+          <div
+            id="column-balanced-against-cartTotal"
+            style={{
+              width: '50%',
+              height: '100%',
+              alignSelf: 'flex-start',
+              display: 'flex',
+              flexDirection: 'column',
+            }}
+          >
+            {cart_details === undefined
+              ? 'Cart Empty'
+              : cart_details.length === 0
+              ? 'Cart Empty'
+              : cart_details.map((item) => (
+                  <div
+                    id="cartdetail-item-container"
+                    style={{
+                      padding: '1rem',
+                      border: '1px solid black',
+                      margin: '1rem',
+                      width: '80%',
+                      height: '40%',
+                    }}
+                    key={item.id}
+                  >
+                    <div
+                      id="button-and-image-container"
+                      style={{
+                        display: 'flex',
+                        flexDirection: 'row',
+                        alignContent: 'center',
+                        alignSelf: 'center',
+                      }}
+                    >
+                      <img
+                        style={{
+                          width: '100%',
+                          height: '100%',
+                          alignSelf: 'flex-start',
+                        }}
+                        src={item.product.image_url}
+                      ></img>
+                      <button
+                        style={{
+                          zIndex: 1,
+                          backgroundColor: 'transparent',
+                          border: 'none',
+                          cursor: 'pointer',
+                        }}
+                        onClick={() => removeItemFromCart(item.product.id)}
+                      >
+                        ❌
+                      </button>
+                    </div>
+                    <div style={{}}>
+                      <li>Product Name: {item.product.name}</li>
+                      <li>Price: ${item.product.price}</li>
+                      <li>Quanity: {item.product_quantity}</li>
+                    </div>
+                    <select
+                      style={{ width: '30%' }}
+                      name="quanity"
+                      id={item.product.id}
+                      onChange={this.changeQuantity}
+                    >
+                      <option value="1">1</option>
+                      <option value="2">2</option>
+                      <option value="3">3</option>
+                      <option value="4">4</option>
+                      <option value="5">5</option>
+                      <option value="6">6</option>
+                      <option value="7">7</option>
+                      <option value="8">8</option>
+                    </select>
+                  </div>
+                ))}
+          </div>
+          <div
+            id="cart-total-container"
+            style={{
+              border: '1px solid black',
+              width: '50%',
+              height: '800px',
+              alignSelf: 'flex-start',
+              fontSize: '35px',
+            }}
+          >
+            <h3>TOTAL COST BEFORE TAX:</h3>
+            <h5>$ {total.totalPrice}</h5>
+          </div>
+        </div>
       </div>
     );
   }
