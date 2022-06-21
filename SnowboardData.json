@@ -1,702 +1,149 @@
 [
   {
-    "name": "Camber Snowboard",
+    "name": "Flight Attendant Camber Snowboard",
     "type": "snowboard",
-    "price": 637.3,
+    "price": 637.40,
     "inventory": 21,
-    "image_url": "http://dummyimage.com/200x200.png/cc0000/ffffff"
+    "image_url": "https://www.burton.com/static/product/W22/22250101000152_1.png?impolicy=bglt&imwidth=486"
   },
   {
-    "name": "Chuter Camber Splitboard",
+    "name": "Straight Chuter Camber Splitboard",
     "type": "snowboard",
-    "price": 410.42,
+    "price": 804.96,
     "inventory": 32,
-    "image_url": "http://dummyimage.com/200x200.png/cc0000/ffffff"
+    "image_url": "https://www.burton.com/static/product/W22/22239101000151_1.png?impolicy=bglt&imwidth=486"
   },
   {
-    "name": "Chuter Camber Splitboard",
+    "name": "Skeleton Key Camber Snowboard",
     "type": "snowboard",
-    "price": 1963.97,
+    "price": 439.96,
     "inventory": 73,
-    "image_url": "http://dummyimage.com/200x200.png/dddddd/000000"
+    "image_url": "https://www.burton.com/static/product/W22/10704107000145_1.png?impolicy=bglt&imwidth=486"
   },
   {
-    "name": "Camber Snowboard",
+    "name": "Hometown Hero Camber Splitboard",
     "type": "snowboard",
-    "price": 114.35,
+    "price": 679.96,
     "inventory": 99,
-    "image_url": "http://dummyimage.com/200x200.png/ff4444/ffffff"
+    "image_url": "https://www.burton.com/static/product/W22/22240101000146_1.png?impolicy=bglt&imwidth=486"
   },
   {
-    "name": "Tree Pow Wrench SplitBoard",
+    "name": "AG Roost Camber Snowboard",
     "type": "snowboard",
-    "price": 486.37,
+    "price": 423.96,
     "inventory": 38,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
+    "image_url": "https://www.burton.com/static/product/W22/22251101000150_1.png?impolicy=bglt&imwidth=486"
   },
   {
-    "name": "Chuter Camber Splitboard",
+    "name": "Throwback Snowboard",
     "type": "snowboard",
-    "price": 529.35,
+    "price": 119.96,
     "inventory": 11,
-    "image_url": "http://dummyimage.com/200x200.png/ff4444/ffffff"
+    "image_url": "https://www.burton.com/static/product/S23/23528100000100_1.png?impolicy=bglt&imwidth=486"
   },
   {
-    "name": "Camber Snowboard",
+    "name": "Burton Blossom Camber Snowboard",
     "type": "snowboard",
-    "price": 455.5,
+    "price": 659.95,
     "inventory": 39,
-    "image_url": "http://dummyimage.com/200x200.png/ff4444/ffffff"
+    "image_url": "https://www.burton.com/static/product/W22/22943100000149_1.png?impolicy=bglt&imwidth=486"
   },
   {
-    "name": "Camber Snowboard",
+    "name": "Doubler Camber Snowboard",
     "type": "snowboard",
     "price": 1225.57,
     "inventory": 56,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
+    "image_url": "https://www.burton.com/static/product/W22/10734104000080_1.png?impolicy=bglt&imwidth=486"
   },
   {
     "name": "Tree Pow Wrench SplitBoard",
     "type": "snowboard",
     "price": 493.04,
     "inventory": 18,
-    "image_url": "http://dummyimage.com/200x200.png/dddddd/000000"
+    "image_url": "https://www.burton.com/static/product/W22/22971100000144_1.png?impolicy=bglt&imwidth=486"
   },
   {
     "name": "Chuter Camber Splitboard",
     "type": "snowboard",
     "price": 240.15,
     "inventory": 29,
-    "image_url": "http://dummyimage.com/200x200.png/cc0000/ffffff"
+    "image_url": "https://www.burton.com/static/product/W22/22247101000146_1.png?impolicy=bglt&imwidth=486"
   },
   {
-    "name": "Camber Snowboard",
+    "name": "Deep Thinker Camber Snowboard",
     "type": "snowboard",
-    "price": 1633.83,
+    "price": 479.96,
     "inventory": 81,
-    "image_url": "http://dummyimage.com/200x200.png/ff4444/ffffff"
+    "image_url": "https://www.burton.com/static/product/W22/17200105000154_1.png?impolicy=bglt&imwidth=486"
   },
   {
-    "name": "Camber Snowboard",
+    "name": "Hometown Hero Camber Snowboard",
     "type": "snowboard",
-    "price": 1744.43,
+    "price": 659.95,
     "inventory": 64,
-    "image_url": "http://dummyimage.com/200x200.png/dddddd/000000"
+    "image_url": "https://www.burton.com/static/product/W23/22245102000148_1.png?impolicy=bglt&imwidth=486"
   },
   {
-    "name": "Chuter Camber Splitboard",
+    "name": "Process Flying V Snowboard",
     "type": "snowboard",
-    "price": 1221.51,
+    "price": 549.95,
     "inventory": 52,
-    "image_url": "http://dummyimage.com/200x200.png/cc0000/ffffff"
+    "image_url": "https://www.burton.com/static/product/W23/10712109000152_1.png?impolicy=bglt&imwidth=486"
   },
   {
-    "name": "Chuter Camber Splitboard",
+    "name": "Wrench Flat Top Snowboard",
     "type": "snowboard",
     "price": 755.84,
     "inventory": 22,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
+    "image_url": "https://www.burton.com/static/product/W22/22252101000142_1.png?impolicy=bglt&imwidth=486"
   },
   {
     "name": "Tree Pow Wrench SplitBoard",
     "type": "snowboard",
     "price": 760.9,
     "inventory": 96,
-    "image_url": "http://dummyimage.com/200x200.png/cc0000/ffffff"
+    "image_url": "https://www.burton.com/static/product/W22/23063100000149_1.png?impolicy=bglt&imwidth=486"
   },
   {
-    "name": "Tree Pow Wrench SplitBoard",
+    "name": "Tree Hometown Hero X Camber Splitboard",
     "type": "snowboard",
-    "price": 1486.28,
+    "price": 1286.28,
     "inventory": 67,
-    "image_url": "http://dummyimage.com/200x200.png/cc0000/ffffff"
+    "image_url": "https://www.burton.com/static/product/W23/10712109000152_1.png?impolicy=bglt&imwidth=486"
   },
   {
-    "name": "Camber Snowboard",
+    "name": "Double Dog Camber Snowboard",
     "type": "snowboard",
-    "price": 963.56,
+    "price": 659.95,
     "inventory": 61,
-    "image_url": "http://dummyimage.com/200x200.png/cc0000/ffffff"
+    "image_url": "https://www.burton.com/static/product/W22/22244102000152_1.png?impolicy=bglt&imwidth=486"
   },
   {
-    "name": "Chuter Camber Splitboard",
+    "name": "Tornado Warning Camber Snowboard",
     "type": "snowboard",
-    "price": 1871.61,
+    "price": 503.96,
     "inventory": 87,
-    "image_url": "http://dummyimage.com/200x200.png/cc0000/ffffff"
+    "image_url": "https://www.burton.com/static/product/W22/22971100000144_1.png?impolicy=bglt&imwidth=486"
   },
   {
-    "name": "Camber Snowboard",
+    "name": "Tree Resonator Powsurf Snowboard",
     "type": "snowboard",
-    "price": 1797.89,
+    "price": 899.95,
     "inventory": 82,
-    "image_url": "http://dummyimage.com/200x200.png/dddddd/000000"
+    "image_url": "https://www.burton.com/static/product/W22/10735104000080_1.png?impolicy=bglt&imwidth=486"
   },
   {
-    "name": "Camber Snowboard",
+    "name": "3D Kilroy Camber Snowboard",
     "type": "snowboard",
-    "price": 1986.38,
+    "price": 499.95,
     "inventory": 46,
-    "image_url": "http://dummyimage.com/200x200.png/cc0000/ffffff"
+    "image_url": "https://www.burton.com/static/product/W22/21710102000140_1.png?impolicy=bglt&imwidth=486"
   },
   {
-    "name": "Tree Pow Wrench SplitBoard",
+    "name": "Chicklet Flat Top Snowboard",
     "type": "snowboard",
-    "price": 1065.92,
-    "inventory": 96,
-    "image_url": "http://dummyimage.com/200x200.png/dddddd/000000"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 1336.58,
-    "inventory": 97,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Chuter Camber Splitboard",
-    "type": "snowboard",
-    "price": 776.16,
-    "inventory": 16,
-    "image_url": "http://dummyimage.com/200x200.png/dddddd/000000"
-  },
-  {
-    "name": "Chuter Camber Splitboard",
-    "type": "snowboard",
-    "price": 444.08,
-    "inventory": 70,
-    "image_url": "http://dummyimage.com/200x200.png/cc0000/ffffff"
-  },
-  {
-    "name": "Chuter Camber Splitboard",
-    "type": "snowboard",
-    "price": 1917.42,
-    "inventory": 54,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Chuter Camber Splitboard",
-    "type": "snowboard",
-    "price": 1084.33,
-    "inventory": 17,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Chuter Camber Splitboard",
-    "type": "snowboard",
-    "price": 343.19,
-    "inventory": 13,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Camber Snowboard",
-    "type": "snowboard",
-    "price": 1184.11,
-    "inventory": 25,
-    "image_url": "http://dummyimage.com/200x200.png/ff4444/ffffff"
-  },
-  {
-    "name": "Camber Snowboard",
-    "type": "snowboard",
-    "price": 670.43,
-    "inventory": 100,
-    "image_url": "http://dummyimage.com/200x200.png/dddddd/000000"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 551.32,
-    "inventory": 21,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 1535.99,
-    "inventory": 24,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 1557.5,
-    "inventory": 62,
-    "image_url": "http://dummyimage.com/200x200.png/ff4444/ffffff"
-  },
-  {
-    "name": "Chuter Camber Splitboard",
-    "type": "snowboard",
-    "price": 1985.76,
-    "inventory": 2,
-    "image_url": "http://dummyimage.com/200x200.png/ff4444/ffffff"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 1272.29,
-    "inventory": 24,
-    "image_url": "http://dummyimage.com/200x200.png/dddddd/000000"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 1013.95,
-    "inventory": 50,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Chuter Camber Splitboard",
-    "type": "snowboard",
-    "price": 1087.29,
-    "inventory": 61,
-    "image_url": "http://dummyimage.com/200x200.png/ff4444/ffffff"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 1326.6,
+    "price": 167.96,
     "inventory": 46,
-    "image_url": "http://dummyimage.com/200x200.png/ff4444/ffffff"
-  },
-  {
-    "name": "Chuter Camber Splitboard",
-    "type": "snowboard",
-    "price": 1118.17,
-    "inventory": 10,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 1592.36,
-    "inventory": 26,
-    "image_url": "http://dummyimage.com/200x200.png/cc0000/ffffff"
-  },
-  {
-    "name": "Chuter Camber Splitboard",
-    "type": "snowboard",
-    "price": 596.85,
-    "inventory": 28,
-    "image_url": "http://dummyimage.com/200x200.png/ff4444/ffffff"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 895.71,
-    "inventory": 89,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 1905.39,
-    "inventory": 44,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 1693.23,
-    "inventory": 80,
-    "image_url": "http://dummyimage.com/200x200.png/dddddd/000000"
-  },
-  {
-    "name": "Chuter Camber Splitboard",
-    "type": "snowboard",
-    "price": 1093.43,
-    "inventory": 39,
-    "image_url": "http://dummyimage.com/200x200.png/ff4444/ffffff"
-  },
-  {
-    "name": "Chuter Camber Splitboard",
-    "type": "snowboard",
-    "price": 168.0,
-    "inventory": 52,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Chuter Camber Splitboard",
-    "type": "snowboard",
-    "price": 1763.24,
-    "inventory": 88,
-    "image_url": "http://dummyimage.com/200x200.png/ff4444/ffffff"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 1494.74,
-    "inventory": 61,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Camber Snowboard",
-    "type": "snowboard",
-    "price": 757.4,
-    "inventory": 0,
-    "image_url": "http://dummyimage.com/200x200.png/cc0000/ffffff"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 457.17,
-    "inventory": 33,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 535.08,
-    "inventory": 49,
-    "image_url": "http://dummyimage.com/200x200.png/cc0000/ffffff"
-  },
-  {
-    "name": "Camber Snowboard",
-    "type": "snowboard",
-    "price": 381.35,
-    "inventory": 0,
-    "image_url": "http://dummyimage.com/200x200.png/ff4444/ffffff"
-  },
-  {
-    "name": "Camber Snowboard",
-    "type": "snowboard",
-    "price": 1503.79,
-    "inventory": 93,
-    "image_url": "http://dummyimage.com/200x200.png/dddddd/000000"
-  },
-  {
-    "name": "Chuter Camber Splitboard",
-    "type": "snowboard",
-    "price": 1671.03,
-    "inventory": 39,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Chuter Camber Splitboard",
-    "type": "snowboard",
-    "price": 1328.74,
-    "inventory": 98,
-    "image_url": "http://dummyimage.com/200x200.png/dddddd/000000"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 1442.05,
-    "inventory": 4,
-    "image_url": "http://dummyimage.com/200x200.png/ff4444/ffffff"
-  },
-  {
-    "name": "Camber Snowboard",
-    "type": "snowboard",
-    "price": 829.08,
-    "inventory": 93,
-    "image_url": "http://dummyimage.com/200x200.png/dddddd/000000"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 838.88,
-    "inventory": 20,
-    "image_url": "http://dummyimage.com/200x200.png/cc0000/ffffff"
-  },
-  {
-    "name": "Camber Snowboard",
-    "type": "snowboard",
-    "price": 873.49,
-    "inventory": 51,
-    "image_url": "http://dummyimage.com/200x200.png/dddddd/000000"
-  },
-  {
-    "name": "Camber Snowboard",
-    "type": "snowboard",
-    "price": 347.07,
-    "inventory": 83,
-    "image_url": "http://dummyimage.com/200x200.png/cc0000/ffffff"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 1375.71,
-    "inventory": 5,
-    "image_url": "http://dummyimage.com/200x200.png/ff4444/ffffff"
-  },
-  {
-    "name": "Chuter Camber Splitboard",
-    "type": "snowboard",
-    "price": 1565.19,
-    "inventory": 26,
-    "image_url": "http://dummyimage.com/200x200.png/dddddd/000000"
-  },
-  {
-    "name": "Camber Snowboard",
-    "type": "snowboard",
-    "price": 1756.26,
-    "inventory": 50,
-    "image_url": "http://dummyimage.com/200x200.png/ff4444/ffffff"
-  },
-  {
-    "name": "Camber Snowboard",
-    "type": "snowboard",
-    "price": 209.43,
-    "inventory": 86,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Chuter Camber Splitboard",
-    "type": "snowboard",
-    "price": 499.2,
-    "inventory": 60,
-    "image_url": "http://dummyimage.com/200x200.png/dddddd/000000"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 500.42,
-    "inventory": 41,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 1198.68,
-    "inventory": 8,
-    "image_url": "http://dummyimage.com/200x200.png/cc0000/ffffff"
-  },
-  {
-    "name": "Camber Snowboard",
-    "type": "snowboard",
-    "price": 540.39,
-    "inventory": 67,
-    "image_url": "http://dummyimage.com/200x200.png/ff4444/ffffff"
-  },
-  {
-    "name": "Chuter Camber Splitboard",
-    "type": "snowboard",
-    "price": 1668.53,
-    "inventory": 10,
-    "image_url": "http://dummyimage.com/200x200.png/ff4444/ffffff"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 1602.47,
-    "inventory": 4,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Camber Snowboard",
-    "type": "snowboard",
-    "price": 1126.82,
-    "inventory": 3,
-    "image_url": "http://dummyimage.com/200x200.png/cc0000/ffffff"
-  },
-  {
-    "name": "Camber Snowboard",
-    "type": "snowboard",
-    "price": 928.69,
-    "inventory": 8,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 740.13,
-    "inventory": 96,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 1377.09,
-    "inventory": 54,
-    "image_url": "http://dummyimage.com/200x200.png/dddddd/000000"
-  },
-  {
-    "name": "Chuter Camber Splitboard",
-    "type": "snowboard",
-    "price": 474.14,
-    "inventory": 41,
-    "image_url": "http://dummyimage.com/200x200.png/ff4444/ffffff"
-  },
-  {
-    "name": "Camber Snowboard",
-    "type": "snowboard",
-    "price": 1027.44,
-    "inventory": 33,
-    "image_url": "http://dummyimage.com/200x200.png/cc0000/ffffff"
-  },
-  {
-    "name": "Chuter Camber Splitboard",
-    "type": "snowboard",
-    "price": 648.51,
-    "inventory": 35,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Camber Snowboard",
-    "type": "snowboard",
-    "price": 303.5,
-    "inventory": 45,
-    "image_url": "http://dummyimage.com/200x200.png/ff4444/ffffff"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 982.37,
-    "inventory": 57,
-    "image_url": "http://dummyimage.com/200x200.png/dddddd/000000"
-  },
-  {
-    "name": "Camber Snowboard",
-    "type": "snowboard",
-    "price": 1416.96,
-    "inventory": 19,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 1314.75,
-    "inventory": 65,
-    "image_url": "http://dummyimage.com/200x200.png/dddddd/000000"
-  },
-  {
-    "name": "Camber Snowboard",
-    "type": "snowboard",
-    "price": 207.65,
-    "inventory": 74,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 1387.02,
-    "inventory": 82,
-    "image_url": "http://dummyimage.com/200x200.png/cc0000/ffffff"
-  },
-  {
-    "name": "Chuter Camber Splitboard",
-    "type": "snowboard",
-    "price": 1016.34,
-    "inventory": 11,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 1005.64,
-    "inventory": 13,
-    "image_url": "http://dummyimage.com/200x200.png/ff4444/ffffff"
-  },
-  {
-    "name": "Chuter Camber Splitboard",
-    "type": "snowboard",
-    "price": 496.03,
-    "inventory": 14,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Chuter Camber Splitboard",
-    "type": "snowboard",
-    "price": 1026.46,
-    "inventory": 28,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Camber Snowboard",
-    "type": "snowboard",
-    "price": 881.54,
-    "inventory": 49,
-    "image_url": "http://dummyimage.com/200x200.png/dddddd/000000"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 1513.51,
-    "inventory": 54,
-    "image_url": "http://dummyimage.com/200x200.png/ff4444/ffffff"
-  },
-  {
-    "name": "Camber Snowboard",
-    "type": "snowboard",
-    "price": 1898.62,
-    "inventory": 69,
-    "image_url": "http://dummyimage.com/200x200.png/ff4444/ffffff"
-  },
-  {
-    "name": "Camber Snowboard",
-    "type": "snowboard",
-    "price": 1270.11,
-    "inventory": 2,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Chuter Camber Splitboard",
-    "type": "snowboard",
-    "price": 1863.98,
-    "inventory": 74,
-    "image_url": "http://dummyimage.com/200x200.png/ff4444/ffffff"
-  },
-  {
-    "name": "Camber Snowboard",
-    "type": "snowboard",
-    "price": 237.79,
-    "inventory": 60,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Chuter Camber Splitboard",
-    "type": "snowboard",
-    "price": 1400.68,
-    "inventory": 58,
-    "image_url": "http://dummyimage.com/200x200.png/ff4444/ffffff"
-  },
-  {
-    "name": "Chuter Camber Splitboard",
-    "type": "snowboard",
-    "price": 1141.03,
-    "inventory": 20,
-    "image_url": "http://dummyimage.com/200x200.png/dddddd/000000"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 217.81,
-    "inventory": 96,
-    "image_url": "http://dummyimage.com/200x200.png/ff4444/ffffff"
-  },
-  {
-    "name": "Chuter Camber Splitboard",
-    "type": "snowboard",
-    "price": 1971.54,
-    "inventory": 85,
-    "image_url": "http://dummyimage.com/200x200.png/ff4444/ffffff"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 481.61,
-    "inventory": 94,
-    "image_url": "http://dummyimage.com/200x200.png/dddddd/000000"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 1160.89,
-    "inventory": 54,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Camber Snowboard",
-    "type": "snowboard",
-    "price": 1239.24,
-    "inventory": 23,
-    "image_url": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
-  },
-  {
-    "name": "Tree Pow Wrench SplitBoard",
-    "type": "snowboard",
-    "price": 374.37,
-    "inventory": 75,
-    "image_url": "http://dummyimage.com/200x200.png/cc0000/ffffff"
+    "image_url": "https://www.burton.com/static/product/W22/21408100000140_1.png?impolicy=bglt&imwidth=486"
   }
 ]
